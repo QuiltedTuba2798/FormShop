@@ -3,10 +3,10 @@
 #
 # Title
 # Title
-selectform.title: "Welcome to the store"
+selectform.title: "Welcome To The Store"
 # Content
 # Content
-selectform.content: "Your balance:% money%."
+selectform.content: "Your Balance: %money%"
 # Buttons
 # Buttons
 #
@@ -15,117 +15,117 @@ selectform.content: "Your balance:% money%."
 selectform.button.buy: "Buy"
 # Image
 # Image
-selectform.button.buy.image: "https://d30y9cdsu7xlg0.cloudfront.net/png/104301-200.png"
+selectform.button.buy.image: ""
 # Sell
 # Sell
 selectform.button.sell: "Sell"
 # Image
 # Image
-selectform.button.sell.image: "https://cdn0.iconfinder.com/data/icons/shopping-set-2/512/e2-512.png"
+selectform.button.sell.image: ""
 
 # BUY | MAIN FORM
 # BUY | MAIN FORM
 #
 # Title
 # Title
-buy.mainform.title: "Welcome to the store"
+buy.mainform.title: "Welcome To The Store"
 # Content
 # Content
-buy.mainform.content: "Your balance:% money%."
+buy.mainform.content: "Your Balance: %money%"
 # Button
 # Button
-buy.mainform.button: "% category_name%"
+buy.mainform.button: "%category_name%"
 
 # BUY | FORM WITH THE SUBJECTS
 # BUY | ITEMS FORM
 #
 # Title
 # Title
-buy.itemsform.title: "Welcome to the store"
+buy.itemsform.title: "Welcome To The Store"
 # Content
 # Content
-buy.itemsform.content: "Your balance:% money%."
+buy.itemsform.content: "Your Balance: %money%"
 # Button
 # Button
-buy.itemsform.button: "% item_name%% id%:% damage% (% price%)"
+buy.itemsform.button: "%item_name% : (%price%)"
 # The list of items is empty
 # The list of items is empty
-buy.itemsform.no_content: "Category is empty"
+buy.itemsform.no_content: "Category Is Empty"
 
 # BUY | FORM WITH SELECTION OF QUANTITY OF SUBJECTS
 # BUY | SELECT COUNT ITEMS FORM
 #
 # Title
 # Title
-buy.selectcountform.title: "You want to buy% item_name%% id%:% damage% (% price%). Your balance:% money%."
+buy.selectcountform.title: "You Want To Buy %item_name% : (%price%) Your Balance: %money%"
 # Slider
 # Slider
-buy.selectcountform.slider_name: "Select quantity"
+buy.selectcountform.slider_name: "Select Quantity"
 
 # BUY | SHOPPING FORM
 # BUY | BUY FORM
 #
 # Title
 # Title
-buy.buyform.title: "Confirm purchase"
+buy.buyform.title: "Confirm Purchase"
 # Content
 # Content
-buy.buyform.content: "You want to buy% item_name%% id%:% damage% (% price%). Your balance:% money%. Quantity:% count%. Purchase amount:% fullprice%"
+buy.buyform.content: "You Want To Buy %item_name% : (%price%) Your Balance: %money% Quantity: %count% Purchase Amount: %fullprice%"
 # Button
 # Button
 buy.buyform.button: "Buy"
 # Not enough money
 # Not enough money
-buy.buyform.no_money: "Not enough money. You need:% fullprice%"
+buy.buyform.no_money: "Not Enough Money You Need: %fullprice%"
 
 # Full inventory
 # Full inventory
-full_inventory: "Insufficient space in inventory"
+full_inventory: "Insufficient Space In Inventory"
 # Successful purchase
 # Successful purchase
-pay: "You have successfully purchased% count%% item_name%"
+pay: "You Have Successfully Purchased %count% %item_name%"
 # Button, to return to the main form
 # Button, to return to the main form
-mainformreturn: "Return to the main menu"
+mainformreturn: "Return To The Main Menu"
 # Insufficient rights
 # No permission
-no_permission: "Not enough rights"
+no_permission: "Not Enough Rights If You See This Ping Owner On The Discord Server As Fast As You Can"
 
 # SELL | MAIN FORM
 # SELL | MAIN FORM
 #
 # Title
 # Title
-sell.mainform.title: "Welcome to the store"
+sell.mainform.title: "Welcome To The Store"
 # Content
 # Content
-sell.mainform.content: "Your balance:% money%."
+sell.mainform.content: "Your Balance: %money%"
 # Buttons for objects
 # Buttons for objects
-sell.mainform.button: "% item_name%% id%:% damage% (% price%)"
+sell.mainform.button: "%item_name% : (%price%)"
 
 # SELL | FORM WITH SELECTION OF QUANTITY OF SUBJECTS
 # SELL | SELECT COUNT ITEMS FORM
 #
 # Title
 # Title
-sell.selectsellform.title: "Welcome to the store"
+sell.selectsellform.title: "Welcome To The Store"
 # Content
 # Content
-sell.selectsellform.content: "Your balance:% money%."
+sell.selectsellform.content: "Your Balance: %money%"
 # Slider
 # Slider
-sell.selectsellform.slider: "Select quantity"
+sell.selectsellform.slider: "Select Quantity"
 
 # SELL | FORM OF SALES
 # SELL | SELL FORM
 #
 # Title
 # Title
-sell.sellform.title: "Confirm sale"
+sell.sellform.title: "Confirm Sale"
 # Content
 # Content
-sell.sellform.content: "You want to sell% item_name%% id%:% damage% (% price%). Your balance:% money%.%:% count%. Sale amount:% fullprice%"
+sell.sellform.content: "You Want To sell %item_name% : (%price%) Your Balance: %money%: %count% Sale Amount: %fullprice%"
 # Button
 # Button
 sell.sellform.button: "Sell"
@@ -133,4 +133,4 @@ sell.sellform.button: "Sell"
 
 # There is no subject
 # No item
-sell.sellform.noitem: "This item is not in your inventory."
+sell.sellform.noitem: "This Item Is Not In Your Inventory"
